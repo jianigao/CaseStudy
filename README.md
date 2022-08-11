@@ -1,1 +1,1 @@
-# CaseStudy
+Case Study for AI Projects
